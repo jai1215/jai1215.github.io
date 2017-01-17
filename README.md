@@ -1,7 +1,9 @@
 ## Welcome to GitHub Pages
 
 [tetris](https://jai1215.github.io/tetris)
+
 [bingo](https://jai1215.github.io/bingo)
+
 [cavnas_test](https://jai1215.github.io/cavnas_test)
 
 You can use the [editor on GitHub](https://github.com/jai1215/jai1215.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
