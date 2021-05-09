@@ -1,0 +1,470 @@
+Standard Output Stream:
+WAIT MINE
+002
+137
+Standard Output Stream:
+WAIT
+Standard Output Stream:
+SEED 25 11 MINE
+005
+137
+Standard Output Stream:
+GROW 31
+Standard Output Stream:
+GROW 22 MINE
+006
+137
+Standard Output Stream:
+WAIT
+Standard Output Stream:
+WAIT MINE
+007
+137
+Standard Output Stream:
+GROW 11 MINE
+010
+137
+Standard Output Stream:
+SEED 31 14
+Standard Output Stream:
+WAIT MINE
+011
+137
+Standard Output Stream:
+GROW 34
+Standard Output Stream:
+WAIT
+012
+137
+Standard Output Stream:
+SEED 22 2 MINE
+015
+137
+Standard Output Stream:
+GROW 14
+Standard Output Stream:
+GROW 11 MINE
+016
+137
+Standard Output Stream:
+SEED 34 16
+Standard Output Stream:
+SEED 25 24 MINE
+017
+137
+Standard Output Stream:
+WAIT
+Standard Output Stream:
+WAIT MINE
+018
+137
+Standard Output Stream:
+GROW 2 MINE
+021
+137
+Standard Output Stream:
+GROW 31
+Standard Output Stream:
+GROW 24 MINE
+022
+137
+Standard Output Stream:
+WAIT
+Standard Output Stream:
+SEED 11 0 MINE
+023
+137
+Standard Output Stream:
+SEED 22 8 MINE
+024
+137
+Standard Output Stream:
+WAIT MINE
+025
+137
+Standard Output Stream:
+GROW 0 MINE
+028
+137
+Standard Output Stream:
+GROW 14
+Standard Output Stream:
+SEED 11 3 MINE
+029
+137
+Standard Output Stream:
+GROW 16
+Standard Output Stream:
+SEED 2 10 MINE
+030
+137
+Standard Output Stream:
+SEED 34 18
+Standard Output Stream:
+WAIT MINE
+031
+137
+Standard Output Stream:
+WAIT
+Standard Output Stream:
+GROW 0 MINE
+034
+137
+Standard Output Stream:
+GROW 14
+Standard Output Stream:
+WAIT MINE
+035
+137
+Standard Output Stream:
+WAIT
+Standard Output Stream:
+GROW 0 MINE
+038
+137
+Standard Output Stream:
+GROW 34
+Standard Output Stream:
+WAIT MINE
+039
+137
+Standard Output Stream:
+WAIT
+Standard Output Stream:
+GROW 3 MINE
+042
+137
+Standard Output Stream:
+GROW 16
+Standard Output Stream:
+WAIT MINE
+043
+137
+Standard Output Stream:
+GROW 18
+Standard Output Stream:
+SEED 14 28
+044
+137
+Standard Output Stream:
+WAIT
+045
+137
+Standard Output Stream:
+GROW 2 MINE
+048
+137
+Standard Output Stream:
+GROW 16
+Standard Output Stream:
+WAIT MINE
+049
+137
+Standard Output Stream:
+GROW 18
+Standard Output Stream:
+GROW 28
+050
+137
+Standard Output Stream:
+SEED 14 33
+051
+137
+Standard Output Stream:
+WAIT
+052
+137
+Standard Output Stream:
+GROW 2 MINE
+055
+137
+Standard Output Stream:
+GROW 18
+Standard Output Stream:
+GROW 3 MINE
+056
+137
+Standard Output Stream:
+GROW 33
+Standard Output Stream:
+WAIT MINE
+057
+137
+Standard Output Stream:
+SEED 16 7
+Standard Output Stream:
+WAIT
+058
+137
+Standard Output Stream:
+SEED 2 5 MINE
+061
+137
+Standard Output Stream:
+GROW 28
+Standard Output Stream:
+GROW 3 MINE
+062
+137
+Standard Output Stream:
+GROW 33
+Standard Output Stream:
+WAIT MINE
+063
+137
+Standard Output Stream:
+GROW 7
+Standard Output Stream:
+SEED 18 19
+064
+137
+Standard Output Stream:
+WAIT
+065
+137
+Standard Output Stream:
+GROW 5 MINE
+068
+137
+Standard Output Stream:
+GROW 28
+Standard Output Stream:
+GROW 8 MINE
+069
+137
+Standard Output Stream:
+WAIT
+Standard Output Stream:
+GROW 10 MINE
+070
+137
+Standard Output Stream:
+WAIT MINE
+071
+137
+Standard Output Stream:
+WAIT MINE
+074
+137
+Standard Output Stream:
+COMPLETE 28
+Standard Output Stream:
+COMPLETE 14
+075
+137
+Standard Output Stream:
+GROW 33
+076
+137
+Standard Output Stream:
+GROW 19
+077
+137
+Standard Output Stream:
+SEED 16 13
+078
+137
+Standard Output Stream:
+WAIT
+079
+137
+Standard Output Stream:
+SEED 3 6 MINE
+082
+137
+Standard Output Stream:
+COMPLETE 33
+Standard Output Stream:
+SEED 0 12 MINE
+083
+137
+Standard Output Stream:
+COMPLETE 31
+Standard Output Stream:
+SEED 2 14 MINE
+084
+137
+Standard Output Stream:
+GROW 7
+Standard Output Stream:
+WAIT MINE
+085
+137
+Standard Output Stream:
+GROW 13
+Standard Output Stream:
+SEED 16 31
+086
+137
+Standard Output Stream:
+WAIT
+087
+137
+Standard Output Stream:
+GROW 5 MINE
+090
+137
+Standard Output Stream:
+COMPLETE 18
+Standard Output Stream:
+SEED 3 17 MINE
+091
+137
+Standard Output Stream:
+GROW 7
+Standard Output Stream:
+GROW 6 MINE
+092
+137
+Standard Output Stream:
+WAIT
+Standard Output Stream:
+WAIT MINE
+093
+137
+Standard Output Stream:
+COMPLETE 0 MINE
+096
+137
+Standard Output Stream:
+COMPLETE 34
+Standard Output Stream:
+COMPLETE 3 MINE
+097
+137
+Standard Output Stream:
+COMPLETE 7
+Standard Output Stream:
+GROW 6 MINE
+098
+137
+Standard Output Stream:
+WAIT
+Standard Output Stream:
+WAIT MINE
+099
+137
+Standard Output Stream:
+COMPLETE 2 MINE
+102
+137
+Standard Output Stream:
+GROW 13
+Standard Output Stream:
+GROW 5 MINE
+103
+137
+Standard Output Stream:
+GROW 19
+Standard Output Stream:
+WAIT MINE
+104
+137
+Standard Output Stream:
+WAIT
+Standard Output Stream:
+COMPLETE 5 MINE
+107
+137
+Standard Output Stream:
+GROW 31
+Standard Output Stream:
+GROW 6 MINE
+108
+137
+Standard Output Stream:
+SEED 16 2
+Standard Output Stream:
+WAIT MINE
+109
+137
+Standard Output Stream:
+WAIT
+Standard Output Stream:
+COMPLETE 6 MINE
+112
+137
+Standard Output Stream:
+GROW 13
+Standard Output Stream:
+WAIT MINE
+113
+137
+Standard Output Stream:
+GROW 31
+Standard Output Stream:
+GROW 2
+114
+137
+Standard Output Stream:
+SEED 16 3
+115
+137
+Standard Output Stream:
+WAIT
+116
+137
+Standard Output Stream:
+WAIT MINE
+119
+137
+Standard Output Stream:
+COMPLETE 13
+Standard Output Stream:
+GROW 19
+120
+137
+Standard Output Stream:
+WAIT
+121
+137
+Standard Output Stream:
+GROW 11 MINE
+124
+137
+Standard Output Stream:
+COMPLETE 16
+Standard Output Stream:
+GROW 8 MINE
+125
+137
+Standard Output Stream:
+GROW 2
+Standard Output Stream:
+WAIT MINE
+126
+137
+Standard Output Stream:
+WAIT
+Standard Output Stream:
+COMPLETE 11 MINE
+129
+137
+Standard Output Stream:
+WAIT
+Standard Output Stream:
+WAIT MINE
+130
+137
+Standard Output Stream:
+GROW 8 MINE
+133
+137
+Standard Output Stream:
+COMPLETE 19
+Standard Output Stream:
+GROW 10 MINE
+134
+137
+Standard Output Stream:
+SEED 2 7
+Standard Output Stream:
+GROW 12 MINE
+135
+137
+Standard Output Stream:
+WAIT
+Standard Output Stream:
+WAIT MINE
+136
+137
